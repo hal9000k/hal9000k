@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hal9000k
 - 👀 I’m interested in ...raspberrypi
-- 🌱 I’m currently learning ...puthon
+- 🌱 I’m currently learning ...python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
